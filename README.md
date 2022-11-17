@@ -18,7 +18,7 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 
 1) MercadoVirtual
 
-[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoAppMercado.PNG)](https://youtu.be/tIRd6VOOW5U)
+[![image](https://user-images.githubusercontent.com/106395795/202532351-6f417ada-1e57-43fa-9b01-945f7e4f5e96.png)](https://youtu.be/tIRd6VOOW5U)
 
 ## Assista ao vídeo do MyMap - Modulo de Desenvolvimento na plataforma Android II:
 
@@ -26,7 +26,9 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 
 [![image](https://user-images.githubusercontent.com/106395795/202532351-6f417ada-1e57-43fa-9b01-945f7e4f5e96.png)](https://youtu.be/DdlkLGkmsq4)
 
+3) Teste Funcional
 
+[![image](https://user-images.githubusercontent.com/106395795/202532351-6f417ada-1e57-43fa-9b01-945f7e4f5e96.png)](https://youtu.be/H1o4C1S29Y0)
 # Tecnologias utilizadas
 
 ## Front end
