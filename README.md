@@ -24,7 +24,7 @@ E Desenvolvimento na Plataforma Android 2 ministrada pelo professor: Me. Lucas M
 
 2) MapsCEP
 
-[![pagamentocomprafoto](https://github.com/Jonathan2379/Resources/blob/main/fotoMyMap.PNG)](https://youtu.be/DdlkLGkmsq4)
+[![image](https://user-images.githubusercontent.com/106395795/202532351-6f417ada-1e57-43fa-9b01-945f7e4f5e96.png)](https://youtu.be/DdlkLGkmsq4)
 
 
 # Tecnologias utilizadas
